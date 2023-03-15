@@ -51,3 +51,44 @@ DEBUG:Chroma:time to pre process our knn query: 5.0067901611328125e-06
 DEBUG:Chroma:time to run knn query: 0.0008640289306640625
 DEBUG:Chroma:time to pre process our knn query: 4.0531158447265625e-06
 DEBUG:Chroma:time to run knn query: 0.0007679462432861328
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.1920928955078125e-06
+DEBUG:Chroma:time to run knn query: 8.511543273925781e-05
+DEBUG:Chroma:time to pre process our knn query: 2.1457672119140625e-06
+DEBUG:Chroma:time to run knn query: 8.296966552734375e-05
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 9.799003601074219e-05
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 8.368492126464844e-05
+DEBUG:Chroma:time to pre process our knn query: 1.430511474609375e-06
+DEBUG:Chroma:time to run knn query: 8.845329284667969e-05
+DEBUG:Chroma:time to pre process our knn query: 1.430511474609375e-06
+DEBUG:Chroma:time to run knn query: 8.821487426757812e-05
+DEBUG:Chroma:time to pre process our knn query: 2.384185791015625e-06
+DEBUG:Chroma:time to run knn query: 9.107589721679688e-05
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised RateLimitError: The server is currently overloaded with other requests. Sorry about that! You can retry your request, or contact us through our help center at help.openai.com if the error persists..
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 0.0011987686157226562
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 7.43865966796875e-05
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 8.726119995117188e-05
+DEBUG:Chroma:time to pre process our knn query: 1.430511474609375e-06
+DEBUG:Chroma:time to run knn query: 7.796287536621094e-05
+DEBUG:Chroma:time to pre process our knn query: 7.152557373046875e-07
+DEBUG:Chroma:time to run knn query: 9.870529174804688e-05
+DEBUG:Chroma:time to pre process our knn query: 2.6226043701171875e-06
+DEBUG:Chroma:time to run knn query: 0.00012302398681640625
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 9.202957153320312e-05
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.430511474609375e-06
+DEBUG:Chroma:time to run knn query: 0.0001220703125
+DEBUG:Chroma:time to pre process our knn query: 9.5367431640625e-07
+DEBUG:Chroma:time to run knn query: 9.369850158691406e-05
